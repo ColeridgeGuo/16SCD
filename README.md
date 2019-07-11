@@ -13,5 +13,5 @@ Check the format of fastq files (Validate)
 ## Feature_Selection
 Feature selection and primitive model building.
 
-## KFold_Cross_Validation
+## KFold_CV
 K-fold cross validation and parameter tuning to build models.
