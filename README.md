@@ -1,11 +1,11 @@
 # 16S Chronic Disease
-16S慢病
+16S慢病预测
 
 ## Data_Preparation
 Add "Diagnosis" as the class variable from "微生态数据.txt" based on ID.
 
 ## Process_fastq
-Create experiment and control groups and mov their validated fastq files to separate folders.
+Create experiment and control groups and move their validated .fastq files to separate folders.
 
 ## Validate_fastq
 Check the format of fastq files (Validate)
